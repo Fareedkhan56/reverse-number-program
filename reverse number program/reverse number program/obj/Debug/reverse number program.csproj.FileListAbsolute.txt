@@ -1,0 +1,7 @@
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\bin\Debug\reverse number program.exe.config
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\bin\Debug\reverse number program.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\bin\Debug\reverse number program.pdb
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\obj\Debug\reverse number program.csproj.AssemblyReference.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\obj\Debug\reverse number program.csproj.CoreCompileInputs.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\obj\Debug\reverse number program.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\reverse program\reverse number program\reverse number program\obj\Debug\reverse number program.pdb
